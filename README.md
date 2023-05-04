@@ -1,3 +1,4 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Rdx&label=Profile%20views&color=eb4d3d&style=flat-square" alt="Rdx" /> </p>
 <!DOCTYPE html>
 <html>
 <head>
@@ -18,7 +19,6 @@
 
 </body>
 </html>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Rdx&label=Profile%20views&color=eb4d3d&style=flat-square" alt="Rdx" /> </p>
 </i></b></h3>
 <h3 align="center">
   <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
