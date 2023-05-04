@@ -10,16 +10,16 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=𝙸+𝙰𝙼+Rdx;+𝙸𝚃'𝚜+𝙽𝙾𝚃+𝙹𝚄𝚂𝚃+𝙰+𝙽𝙰𝙼𝙴+𝙱𝚁𝙾;𝙸𝚃'𝚜+𝙰+𝙱𝚁𝙰𝙽𝙳;𝚃𝙷𝙰𝙽𝙺+𝚈𝙾𝚄+𝙴𝚅𝙴𝚁𝚈𝙾𝙽𝙴;𝙻𝙾𝚅e+𝚄+𝙰𝙻𝙻+𝙵𝚁𝙸𝙴𝙽𝙳𝚂)](https://git.io/typing-svg)
 
 <h3><b><i>🏆 Github Statistics :</i></b></h3>
-<a href="https://github.com/Rdx"><img title="trophy" src="https://github-profile-trophy.vercel.app/?username=Rdx&theme=monokai"></a>
+<a href="https://github.com/Rdx-76"><img title="trophy" src="https://github-profile-trophy.vercel.app/?username=Rdx&theme=monokai"></a>
 </p>
 <p align="center"> 
  𝚅𝙸𝚂𝙸𝚃𝙾𝚁𝚂 𝙲𝙾𝚄𝙽𝚃
- <img src="https://profile-counter.glitch.me/Rdx/count.svg" />
+ <img src="https://profile-counter.glitch.me/Rdx-76/count.svg" />
 </p>
 
-![20200808_160757](https://raw.githubusercontent.com/Rdx/Rdx/main/Screenshot_20221104_013930.jpg)
+![20200808_160757](https://raw.githubusercontent.com/Rdx-76/Rdx/main/Screenshot_20221104_013930.jpg)
 
-![20200808_160757](https://raw.githubusercontent.com/Rdx/Rdx/main/803a855baf7ab2eafe41a7dea3631ac9.jpg)
+![20200808_160757](https://raw.githubusercontent.com/Rdx-76/Rdx/main/803a855baf7ab2eafe41a7dea3631ac9.jpg)
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
 
@@ -72,7 +72,7 @@
 
 <h2><img width="28" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-contact.png" /><i> Connect With Me:</i></h2>
 
-[![Instagram](https://img.shields.io/badge/𝙸𝙽𝚂𝚃𝙰𝙶𝚁𝙰𝙼-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/Rdx-Vai)
+[![Instagram](https://img.shields.io/badge/𝙸𝙽𝚂𝚃𝙰𝙶𝚁𝙰𝙼-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/Rdx)
 [![Facebook](https://img.shields.io/badge/𝙵𝚊𝚌𝚎𝚋𝚘𝚘𝚔-green?style=for-the-badge&logo=facebook)](https://www.facebook.com/Rdx)
 [![Messenger](https://img.shields.io/badge/𝙼𝙴𝚂𝚂𝙴𝙽𝙶𝙴𝚁-blue?style=for-the-badge&logo=messenger)](https://m.me/Rdx)
 
@@ -80,7 +80,7 @@
 
 <p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-<h2><img width="25" src="https://github.com/Rdx/Rdx/blob/main/assets/icons/icon-skills.png" /><i> Skills & DevTools Stack :</i></h2>
+<h2><img width="25" src="https://github.com/Rdx-76/Rdx/blob/main/assets/icons/icon-skills.png" /><i> Skills & DevTools Stack :</i></h2>
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -98,8 +98,8 @@
 
 <table border="1">
   <tr>
-    <td valign="top"><a href="https://github.com/Rdx/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api?username=Rdx&count_private=true&show_icons=true&icon_color=FFA500&title_color=f4791f&bg_color=0,03071e,0F2027,03071e&text_color=abcdef&border_radius=10" alt ="Mr. NIKI GitHub stats"/></td> </a>
-    <td valign="top"> <a href="https://github.com/Rdx/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rdx&layout=compact&langs_count=10" alt ="Top Languages"/></td>
+    <td valign="top"><a href="https://github.com/Rdx/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api?username=Rdx&count_private=true&show_icons=true&icon_color=FFA500&title_color=f4791f&bg_color=0,03071e,0F2027,03071e&text_color=abcdef&border_radius=10" alt ="Rdx-76 GitHub stats"/></td> </a>
+    <td valign="top"> <a href="https://github.com/Rdx-76/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rdx&layout=compact&langs_count=10" alt ="Top Languages"/></td>
     </a>
   </tr>
    <tr>
