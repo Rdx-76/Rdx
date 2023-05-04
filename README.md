@@ -7,7 +7,11 @@
 </h3>
 <img align="center" alt="line" src="https://github.com/Rdx-76/Prof/blob/main/line1.svg">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=𝙸+𝙰𝙼+Rdx;+𝙸𝚃'𝚜+𝙽𝙾𝚃+𝙹𝚄𝚂𝚃+𝙰+𝙽𝙰𝙼𝙴+𝙱𝚁𝙾;𝙸𝚃'𝚜+𝙰+𝙱𝚁𝙰𝙽𝙳;𝚃𝙷𝙰𝙽𝙺+𝚈𝙾𝚄+𝙴𝚅𝙴𝚁𝚈𝙾𝙽𝙴;𝙻𝙾𝚅e+𝚄+𝙰𝙻𝙻+𝙵𝚁𝙸𝙴𝙽𝙳𝚂)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=16086A&background=FFFFFF8B&center=true&vCenter=true&width=435&lines=ASSALAMUALAIKUM+EVERYONE.;+WELCOME+TO+MY+PROFILE......)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rdx&pause=1000&color=DA1051&background=FFFFFFA2&center=true&vCenter=true&width=435&lines=+ALLAH+IS+WATCHING+YOU.;YOU+MUST+FEAR+BEFORE;DOING+SOMETHING+WRONG....)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=180877&background=F4F4F4&center=true&vCenter=true&width=435&lines=I+AM+RDX.;WELCOME+TO+MY+-;GITHUB+ACCOUNT......)](https://git.io/typing-svg)
 
 <h3><b><i>🏆 Github Statistics :</i></b></h3>
 <a href="https://github.com/Rdx-76"><img title="trophy" src="https://github-profile-trophy.vercel.app/?username=Rdx&theme=monokai"></a>
