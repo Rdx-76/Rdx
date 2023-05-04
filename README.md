@@ -159,6 +159,8 @@
 
 <h2><img width="28" src="https://github.com/Rdx-76/Icon/blob/main/Graph.png" /><i> GitHub Contribution Graph :</i></h2>
 
+[![Rdx's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Rdx-76&theme=rogue&line=f4791f&point=461220)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <img align="center" alt="line" src="https://github.com/Rdx-76/Prof/blob/main/line2.svg">
 
 <img align="center" alt="line" src="https://github.com/Rdx-76/Prof/blob/main/line2.svg">
