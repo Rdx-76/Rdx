@@ -80,6 +80,34 @@
 
 <img align="center" alt="line" src="https://github.com/Rdx-76/Prof/blob/main/line1.svg">
 
+<img align="center" alt="line" src="https://github.com/Rdx-76/Prof/blob/main/line2.svg">
+
+```mermaid
+  flowchart TB
+    
+    subgraph Execution
+    b1[[Make it Work]]
+    b2[[Make it Right]]
+    b3[[Make it Fast]]
+    end
+    style b1 fill:#1d3461,stroke:#fb8500,stroke-width:4px,color:#fff
+    style b2 fill:#1d3461,stroke:#fb8500,stroke-width:4px,color:#fff
+    style b3 fill:#1d3461,stroke:#fb8500,stroke-width:4px,color:#fff
+    
+    subgraph Strategy
+    c1[[Create like an Artist]]
+    c2[[Solve like an Engineer]]
+    c3[[Act like an Entrepreneur]]
+    end
+    style c1 fill:#1d3461,stroke:#fb8500,stroke-width:4px,color:#fff
+    style c2 fill:#1d3461,stroke:#fb8500,stroke-width:4px,color:#fff
+    style c3 fill:#1d3461,stroke:#fb8500,stroke-width:4px,color:#fff
+    
+    
+```
+
+<img align="center" alt="line" src="https://github.com/Rdx-76/Prof/blob/main/line2.svg">
+
 <h2><img width="28" src="https://github.com/Rdx-76/Icon/blob/main/Social.JPG" /><i> Connect With Me:</i></h2>
 
 [![Instagram](https://img.shields.io/badge/𝙸𝙽𝚂𝚃𝙰𝙶𝚁𝙰𝙼-grey?style=for-the-badge&logo=instagram)](https://www.instagram.com/Rdx)
