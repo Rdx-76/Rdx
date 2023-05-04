@@ -2,7 +2,9 @@
 </i></b></h3>
 <h3 align="center">
   <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
-  &nbsp; 𝚆𝙴𝙻𝙲𝙾𝙼𝙴 𝚃𝙾 𝙼𝚈 𝙿𝚁𝙾𝙵𝙸𝙻𝙴&nbsp;
+        &nbsp; 
+  𝚆𝙴𝙻𝙲𝙾𝙼𝙴 𝚃𝙾 𝙼𝚈 𝙿𝚁𝙾𝙵𝙸𝙻𝙴
+        &nbsp;
   <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
 </h3>
 <img align="center" alt="line" src="https://github.com/Rdx-76/Prof/blob/main/line1.svg">
@@ -45,7 +47,7 @@
 
 - ☞︎︎︎ 𝙸𝙽𝚂𝙿𝙸𝚁𝙰𝚃𝙸𝙾𝙽 :- 𝙼𝚈𝚂𝙴𝙻𝙵
 
-<img align="center" alt="line" src="https://github.com/Rdx-76/Prof/blob/main/line1.svg.svg">
+<img align="center" alt="line" src="https://github.com/Rdx-76/Prof/blob/main/line1.svg">
 
 - 🤲🏻 𝚁𝙴𝙻𝙸𝙶𝙸𝙾𝙽 :- 𝙸𝚂𝙻𝙰𝙼
 
