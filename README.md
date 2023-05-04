@@ -15,6 +15,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=chinese&pause=1000&color=180877&background=F4F4F4&center=true&vCenter=true&width=435&lines=I+AM+RDX.;IT's+NOT+JUST+A+NAME.;IT's+A+BRAND.....;LOVE+YOU+GUYS....)](https://git.io/typing-svg)
 
+<img align="center" alt="line" src="https://github.com/Rdx-76/Prof/blob/main/line2.svg">
+
 <h3><b><i>🏆 Github Statistics :</i></b></h3>
 <a href="https://github.com/Rdx-76"><img title="trophy" src="https://github-profile-trophy.vercel.app/?username=Rdx-76&theme=monokai"></a>
 </p>
@@ -22,6 +24,8 @@
  𝚅𝙸𝚂𝙸𝚃𝙾𝚁𝚂 𝙲𝙾𝚄𝙽𝚃
  <img src="https://profile-counter.glitch.me/Rdx-76/count.svg" />
 </p>
+
+<img align="center" alt="line" src="https://github.com/Rdx-76/Prof/blob/main/line2.svg">
 
 ![20200808_160757](https://raw.githubusercontent.com/Rdx-76/Rdx/main/Screenshot_20221104_013930.jpg)
 
@@ -116,9 +120,6 @@
     </a>
   </tr>
    <tr>
-  
-  <img align="center" alt="line" src="https://github.com/Rdx-76/Prof/blob/main/line2.svg">
-  
     <td colspan="2" align="center"> <a href="https://git.io/streak-stats"> <img src="[GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Rdx-76&theme=soft-green)(https://git.io/streak-stats)" alt ="Rdx-76 GitHub Readme Streak Stats"/> </a>  </td> 
     
   </tr>
