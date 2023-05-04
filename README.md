@@ -161,4 +161,8 @@
 
 <img align="center" alt="line" src="https://github.com/Rdx-76/Prof/blob/main/line2.svg">
 
+[![Kshitij's github activity graph](https://my-activity-graph-instance.herokuapp.com/graph?username=Rdx-76&theme=react-dark&area=true&hide_border=true)](https://github.com/Rdx-76/github-readme-activity-graph)
+
+<a href="https://github.com/Rdx-76/Rdx_Pro.git"><img title="PK-CRACK" src="https://github-readme-stats.vercel.app/api/pin/?username=Rdx-76&repo=Rdx_Pro&theme=gotham"></a>
+
 <img align="center" alt="line" src="https://github.com/Rdx-76/Prof/blob/main/line2.svg">
