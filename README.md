@@ -45,7 +45,7 @@
 
 <img align="center" alt="line" src="https://github.com/Rdx-76/Prof/blob/main/line1.svg">
 
-- 👬欄 𝙵𝚁𝙸𝙴𝙽𝙳𝚂 :- Jack-Vai
+- ♦ 𝙵𝚁𝙸𝙴𝙽𝙳𝚂 :- Jack-Vai
 
 <img align="center" alt="line" src="https://github.com/Rdx-76/Prof/blob/main/line1.svg">
 
@@ -85,6 +85,7 @@
 [![Instagram](https://img.shields.io/badge/𝙸𝙽𝚂𝚃𝙰𝙶𝚁𝙰𝙼-grey?style=for-the-badge&logo=instagram)](https://www.instagram.com/Rdx)
 [![Facebook](https://img.shields.io/badge/𝙵𝚊𝚌𝚎𝚋𝚘𝚘𝚔-grey?style=for-the-badge&logo=facebook)](https://www.facebook.com/Rdx)
 [![Messenger](https://img.shields.io/badge/𝙼𝙴𝚂𝚂𝙴𝙽𝙶𝙴𝚁-grey?style=for-the-badge&logo=messenger)](https://m.me/Rdx)
+[![Whatsapp](https://img.shields.io/badge/Whatsapp-grey?style=for-the-badge&logo=Whatsapp)](https://www.whatsapp.com/Rdx)
 
 <img align="center" alt="line" src="https://github.com/Rdx-76/Prof/blob/main/line2.svg">
 
@@ -94,7 +95,7 @@
 
 <img align="center" alt="line" src="https://github.com/Rdx-76/Prof/blob/main/line2.svg">
 
-<h2><img width="25" src="https://github.com/Rdx-76/Rdx/blob/main/assets/icons/icon-skills.png" /><i> Skills & DevTools Stack :</i></h2>
+<h2><img width="25" src="https://github.com/Rdx-76/Icon/blob/main/Skills.png" /><i> Skills & DevTools Stack :</i></h2>
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -128,7 +129,7 @@
 
 <img align="center" alt="line" src="https://github.com/Rdx-76/Prof/blob/main/line2.svg">
 
-<h2><img width="28" src="https://github.com/Rdx-76/Prof/blob/main/icon-graph.png" /><i> GitHub Contribution Graph :</i></h2>
+<h2><img width="28" src="https://github.com/Rdx-76/Icon/blob/main/Graph.png" /><i> GitHub Contribution Graph :</i></h2>
 
 <img align="center" alt="line" src="https://github.com/Rdx-76/Prof/blob/main/line2.svg">
 
