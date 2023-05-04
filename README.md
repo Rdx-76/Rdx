@@ -45,7 +45,7 @@
 
 <img align="center" alt="line" src="https://github.com/Rdx-76/Prof/blob/main/line1.svg">
 
-- 👬 𝙵𝚁𝙸𝙴𝙽𝙳𝚂 :- Jack-Vai
+- 👬欄 𝙵𝚁𝙸𝙴𝙽𝙳𝚂 :- Jack-Vai
 
 <img align="center" alt="line" src="https://github.com/Rdx-76/Prof/blob/main/line1.svg">
 
