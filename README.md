@@ -1,3 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+#grad1 {
+  height: 200px;
+  background-color: Navy; /* For browsers that do not support gradients */
+  background-image: linear-gradient(Navy);
+}
+</style>
+</head>
+<body>
+
+<h1>Linear Gradient - Top to Bottom</h1>
+<p>This linear gradient starts blue at the top, transitioning to yellow at the bottom:</p>
+
+<div id="grad1"></div>
+
+</body>
+</html>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Rdx&label=Profile%20views&color=eb4d3d&style=flat-square" alt="Rdx" /> </p>
 </i></b></h3>
 <h3 align="center">
