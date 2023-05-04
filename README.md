@@ -7,7 +7,7 @@
         &nbsp;
   <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
 </h3>
-<img align="center" alt="line" src="https://github.com/Rdx-76/Prof/blob/main/line1.svg">
+<img align="center" alt="line" src="https://github.com/Rdx-76/Prof/blob/main/line2.svg">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=16086A&background=FFFFFF8B&center=true&vCenter=true&width=435&lines=ASSALAMUALAIKUM+EVERYONE.;+WELCOME+TO+MY+PROFILE......)](https://git.io/typing-svg)
 
@@ -27,7 +27,7 @@
 
 ![20200808_160757](https://raw.githubusercontent.com/Rdx-76/Rdx/main/803a855baf7ab2eafe41a7dea3631ac9.jpg)
 
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
+<img align="center" alt="line" src="https://github.com/Rdx-76/Prof/blob/main/line2.svg">
 
 <h3 align="center">A Passionate Frontend Developer From Bangladesh</h3>
 
@@ -78,9 +78,11 @@
 
 <h2><img width="28" src="https://github.com/Rdx-76/Prof/blob/main/IMG_1895.JPG" /><i> Connect With Me:</i></h2>
 
-[Instagram](https://img.shields.io/badge/𝙸𝙽𝚂𝚃𝙰𝙶𝚁𝙰𝙼-grey?style=for-the-badge&logo=instagram)](https://www.instagram.com/Rdx)
-[Facebook](https://img.shields.io/badge/𝙵𝚊𝚌𝚎𝚋𝚘𝚘𝚔-grey?style=for-the-badge&logo=facebook)](https://www.facebook.com/Rdx)
-[Messenger](https://img.shields.io/badge/𝙼𝙴𝚂𝚂𝙴𝙽𝙶𝙴𝚁-grey?style=for-the-badge&logo=messenger)](https://m.me/Rdx)
+[![Instagram](https://img.shields.io/badge/𝙸𝙽𝚂𝚃𝙰𝙶𝚁𝙰𝙼-grey?style=for-the-badge&logo=instagram)](https://www.instagram.com/Rdx)
+[![Facebook](https://img.shields.io/badge/𝙵𝚊𝚌𝚎𝚋𝚘𝚘𝚔-grey?style=for-the-badge&logo=facebook)](https://www.facebook.com/Rdx)
+[![Messenger](https://img.shields.io/badge/𝙼𝙴𝚂𝚂𝙴𝙽𝙶𝙴𝚁-grey?style=for-the-badge&logo=messenger)](https://m.me/Rdx)
+
+<img align="center" alt="line" src="https://github.com/Rdx-76/Prof/blob/main/line2.svg">
 
 ### ⚙️ &nbsp; 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎 & 𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐
 
@@ -102,6 +104,8 @@
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 <h2> <img width="25" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-stats.png" /><i> GitHub Stats :</i></h2>
 
+<img align="center" alt="line" src="https://github.com/Rdx-76/Prof/blob/main/line2.svg">
+
 <table border="1">
   <tr>
     <td valign="top"><a href="https://github.com/Rdx/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api?username=Rdx-76&count_private=true&show_icons=true&icon_color=FFA500&title_color=f4791f&bg_color=0,03071e,0F2027,03071e&text_color=abcdef&border_radius=10" alt ="Rdx-76 GitHub stats"/></td> </a>
@@ -114,5 +118,7 @@
   </tr>
 </table>
 <br>
+
+<img align="center" alt="line" src="https://github.com/Rdx-76/Prof/blob/main/line2.svg">
 
 <h2><img width="28" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-graph.png" /><i> GitHub Contribution Graph :</i></h2>
