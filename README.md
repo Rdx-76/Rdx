@@ -120,7 +120,7 @@
     </a>
   </tr>
    <tr>
-    <td colspan="2" align="center"> <a href="https://git.io/streak-stats"> <img src="(http://github-readme-streak-stats.herokuapp.com?user=Rdx-76&theme=soft-green)(https://git.io/streak-stats)" alt ="Rdx-76 GitHub Readme Streak Stats"/> </a>  </td> 
+    <td colspan="2" align="center"> <a href="https://git.io/streak-stats"> <img src="[GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Rdx-76&theme=soft-green)(https://git.io/streak-stats" alt ="Rdx-76 GitHub Readme Streak Stats"/> </a>  </td> 
     
   </tr>
 </table>
