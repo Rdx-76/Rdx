@@ -128,7 +128,7 @@
 
 <img align="center" alt="line" src="https://github.com/Rdx-76/Prof/blob/main/line2.svg">
 
-<h2><img width="28" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-graph.png" /><i> GitHub Contribution Graph :</i></h2>
+<h2><img width="28" src="https://github.com/Rdx-76/Prof/blob/main/icon-graph.png" /><i> GitHub Contribution Graph :</i></h2>
 
 <img align="center" alt="line" src="https://github.com/Rdx-76/Prof/blob/main/line2.svg">
 
