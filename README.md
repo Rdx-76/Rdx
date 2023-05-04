@@ -80,7 +80,7 @@
 
 <img align="center" alt="line" src="https://github.com/Rdx-76/Prof/blob/main/line1.svg">
 
-<h2><img width="28" src="https://github.com/Rdx-76/Prof/blob/main/IMG_1895.JPG" /><i> Connect With Me:</i></h2>
+<h2><img width="28" src="https://github.com/Rdx-76/Icon/blob/main/Social.JPG" /><i> Connect With Me:</i></h2>
 
 [![Instagram](https://img.shields.io/badge/𝙸𝙽𝚂𝚃𝙰𝙶𝚁𝙰𝙼-grey?style=for-the-badge&logo=instagram)](https://www.instagram.com/Rdx)
 [![Facebook](https://img.shields.io/badge/𝙵𝚊𝚌𝚎𝚋𝚘𝚘𝚔-grey?style=for-the-badge&logo=facebook)](https://www.facebook.com/Rdx)
@@ -111,7 +111,7 @@
 
 <img align="center" alt="line" src="https://github.com/Rdx-76/Prof/blob/main/line2.svg">
 
-<h2> <img width="25" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-stats.png" /><i> GitHub Stats :</i></h2>
+<h2> <img width="25" src="https://github.com/Rdx-76/Icon/blob/main/Fire.png" /><i> GitHub Stats :</i></h2>
 
 <table border="1">
   <tr>
