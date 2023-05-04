@@ -43,7 +43,7 @@
 
 <img align="center" alt="line" src="https://github.com/Rdx-76/Prof/blob/main/line1.svg">
 
-- ☞︎︎︎ 𝙸𝙽𝚂P𝙸𝚁𝙰𝚃𝙸𝙾𝙽 :- 𝙼𝚈𝚂𝙴𝙻𝙵
+- ☞︎︎︎ 𝙸𝙽𝚂𝙿𝙸𝚁𝙰𝚃𝙸𝙾𝙽 :- 𝙼𝚈𝚂𝙴𝙻𝙵
 
 <img align="center" alt="line" src="https://github.com/Rdx-76/Prof/blob/main/line1.svg.svg">
 
