@@ -76,7 +76,7 @@
 
 <img align="center" alt="line" src="https://github.com/Rdx-76/Prof/blob/main/line1.svg">
 
-<h2><img width="28" src="(https://github.com/Rdx-76/Prof/blob/main/icon-contact.png)" /><i> Connect With Me:</i></h2>
+<h2><img width="28" src="(https://github.com/Rdx-76/Prof/blob/main/iconcontact.png)" /><i> Connect With Me:</i></h2>
 
 [![Instagram](https://img.shields.io/badge/𝙸𝙽𝚂𝚃𝙰𝙶𝚁𝙰𝙼-grey?style=for-the-badge&logo=instagram)](https://www.instagram.com/Rdx)
 [![Facebook](https://img.shields.io/badge/𝙵𝚊𝚌𝚎𝚋𝚘𝚘𝚔-grey?style=for-the-badge&logo=facebook)](https://www.facebook.com/Rdx)
@@ -104,8 +104,8 @@
 
 <table border="1">
   <tr>
-    <td valign="top"><a href="https://github.com/Rdx/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api?username=Rdx&count_private=true&show_icons=true&icon_color=FFA500&title_color=f4791f&bg_color=0,03071e,0F2027,03071e&text_color=abcdef&border_radius=10" alt ="Rdx-76 GitHub stats"/></td> </a>
-    <td valign="top"> <a href="https://github.com/Rdx-76/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rdx&layout=compact&langs_count=10" alt ="Top Languages"/></td>
+    <td valign="top"><a href="https://github.com/Rdx/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api?username=Rdx-76&count_private=true&show_icons=true&icon_color=FFA500&title_color=f4791f&bg_color=0,03071e,0F2027,03071e&text_color=abcdef&border_radius=10" alt ="Rdx GitHub stats"/></td> </a>
+    <td valign="top"> <a href="https://github.com/Rdx-76/github-readme-stats"> <img src=(https://github-readme-stats.vercel.app/api/top-langs/?username=Rdx-76&layout=compact&langs_count=10)" alt ="Top Languages"/></td>
     </a>
   </tr>
    <tr>
