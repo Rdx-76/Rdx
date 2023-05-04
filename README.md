@@ -16,7 +16,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=chinese&pause=1000&color=180877&background=F4F4F4&center=true&vCenter=true&width=435&lines=I+AM+RDX.;IT's+NOT+JUST+A+NAME.;IT's+A+BRAND.....;LOVE+YOU+GUYS....)](https://git.io/typing-svg)
 
 <h3><b><i>🏆 Github Statistics :</i></b></h3>
-<a href="https://github.com/Rdx-76"><img title="trophy" src="https://github-profile-trophy.vercel.app/?username=Rdx&theme=monokai"></a>
+<a href="https://github.com/Rdx-76"><img title="trophy" src="https://github-profile-trophy.vercel.app/?username=Rdx-76&theme=monokai"></a>
 </p>
 <p align="center"> 
  𝚅𝙸𝚂𝙸𝚃𝙾𝚁𝚂 𝙲𝙾𝚄𝙽𝚃
