@@ -27,9 +27,9 @@
 
 <img align="center" alt="line" src="https://github.com/Rdx-76/Prof/blob/main/line2.svg">
 
-![20200808_160757](https://raw.githubusercontent.com/Rdx-76/Rdx/main/Screenshot_20221104_013930.jpg)
+![Rdx-1](https://github.com/Rdx-76/Prof/blob/main/Hk1.GIF)
 
-![20200808_160757](https://raw.githubusercontent.com/Rdx-76/Rdx/main/803a855baf7ab2eafe41a7dea3631ac9.jpg)
+![Rdx-2](https://github.com/Rdx-76/Prof/blob/main/Hk2.GIF)
 
 <img align="center" alt="line" src="https://github.com/Rdx-76/Prof/blob/main/line2.svg">
 
@@ -74,9 +74,6 @@
 <img align="center" alt="line" src="https://github.com/Rdx-76/Prof/blob/main/line1.svg">
 
 - ➪ 𝚈𝙾𝚄𝚃𝚄𝙱𝙴 :- [Rdx](https://youtube.com/channel/)
-
-<img align="center" alt="line" src="https://github.com/Rdx-76/Prof/blob/main/line1.svg">
-
 
 <img align="center" alt="line" src="https://github.com/Rdx-76/Prof/blob/main/line1.svg">
 
