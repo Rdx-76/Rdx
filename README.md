@@ -11,7 +11,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rdx&pause=1000&color=DA1051&background=FFFFFFA2&center=true&vCenter=true&width=435&lines=+ALLAH+IS+WATCHING+YOU.;YOU+MUST+FEAR+BEFORE;DOING+SOMETHING+WRONG....)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=180877&background=F4F4F4&center=true&vCenter=true&width=435&lines=I+AM+RDX.;WELCOME+TO+MY+-;GITHUB+ACCOUNT......)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=chinese&pause=1000&color=180877&background=F4F4F4&center=true&vCenter=true&width=435&lines=I+AM+RDX.;IT's+NOT+JUST+A+NAME.;IT's+A+BRAND.....;LOVE+YOU+GUYS....)](https://git.io/typing-svg)
 
 <h3><b><i>🏆 Github Statistics :</i></b></h3>
 <a href="https://github.com/Rdx-76"><img title="trophy" src="https://github-profile-trophy.vercel.app/?username=Rdx&theme=monokai"></a>
